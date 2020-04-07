@@ -1,0 +1,2 @@
+This repo contains a SPIMbot developed with complience to MIPS32 architecture as part of our Computer Architecture class project.
+It is developed in assembly with basic instructions to roam the play arena.
